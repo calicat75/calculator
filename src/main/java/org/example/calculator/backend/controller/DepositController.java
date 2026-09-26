@@ -1,5 +1,6 @@
 package org.example.calculator.backend.controller;
 
+import jakarta.validation.Valid;
 import org.example.calculator.backend.dto.DepositRequest;
 import org.example.calculator.backend.dto.DepositResponse;
 import org.example.calculator.backend.service.DepositService;
